@@ -1,0 +1,27 @@
+# VisualStudioCode REST client file
+###
+
+GET http://localhost:8080/user/create-example HTTP/1.1
+
+###
+
+GET http://localhost:8080/user/2 HTTP/1.1
+###
+
+GET http://localhost:8080/user/conn HTTP/1.1
+
+###
+
+GET http://localhost:8080/user/ HTTP/1.1
+
+###
+
+GET https://flowing-indexer-220912.appspot.com/user/create-example HTTP/1.1
+
+###
+
+GET http://flowing-indexer-220912.appspot.com:8080/user/2 HTTP/1.1
+
+###
+
+GET https://flowing-indexer-220912.appspot.com/user/ HTTP/1.1
